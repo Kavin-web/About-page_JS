@@ -20,7 +20,7 @@ form.style.fontWeight = "500"
 
 const link = document.getElementById("link")
 link.style.color = "black"
-link.style.marginBottom = "400px"
+link.style.marginBottom = "40px"
 link.style.marginLeft = "80%"
 link.style.fontSize = "25px"
 
